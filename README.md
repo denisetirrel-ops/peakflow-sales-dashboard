@@ -2,7 +2,7 @@
 
 Final project for Term 1 of the Data Analyst program at Masterschool. PeakFlow sells bikes, components, clothing and accessories online in Europe and North America. The raw export held 320 orders from 2024 and was not usable as it was.
 
-![Dashboard overview](dashboard-overview.png)
+![Dashboard overview](dashboard-overview.png.png)
 
 ## The questions
 
@@ -62,8 +62,8 @@ Lesson: reconcile every dashboard total with the source before sharing it.
 
 ## Files
 
-- `.pbix` file – the Power BI report (open with Power BI Desktop, free)
-- `dashboard-overview.png` – screenshot of the overview page
+- `Power BI Abschlussarbeit Term1 Denise Tirrel.pbix` – the Power BI report (open with Power BI Desktop, free)
+- `dashboard-overview.png.png` – screenshot of the overview page
 
 ## Tools
 
