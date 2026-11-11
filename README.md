@@ -60,6 +60,10 @@ Lesson: reconcile every dashboard total with the source before sharing it.
 - Revenue, not profit: no cost data
 - Customer names are not unique (16 names across 83 IDs), so the customer ID is the only reliable key
 
+## Data & privacy
+
+Public practice dataset from my Data Analytics training at Masterschool, no real personal or customer data. When working with real data, I follow GDPR principles: anonymisation, data minimisation and restricted access.
+
 ## Files
 
 - `Power BI Abschlussarbeit Term1 Denise Tirrel.pbix` – the Power BI report (open with Power BI Desktop, free)
